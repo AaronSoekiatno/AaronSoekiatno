@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**AaronSoekiatno/AaronSoekiatno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science @ UCSD | 🛠️ Prev @ East Ventures | 📍 Riverside/San Diego
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interests: Full-stack development, AI systems, and mobile game design
+- Currently building: Solutions to preserve combat airpower for the U.S. Department of Defense & doing contract work for an EdTech startup
+- Previously built: Internal tools and infrastructure to help investment associates at a VC firm
+
+
+Outside of work, you will catch me
+- 🍿 Binge-watching movies/tv shows
+- 🏀 Hooping
+- 💪 Hitting the gym
+- 🍣 Eating lots of sashimi
