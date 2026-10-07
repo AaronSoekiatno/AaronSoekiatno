@@ -13,7 +13,7 @@ https://www.linkedin.com/in/aaron-soek/
 ## 👨‍💻 About Me
 
 - **Interests:** Full-stack development, AI systems, and mobile game design
-- **Currently building:** Solutions to preserve combat airpower for the U.S. Department of Defense & doing contract work for an EdTech startup
+- **Currently building:** Contract work (design + growth) for an EdTech startup that turns nonfiction books into gamified audio learning
 - **Previously built:** Internal tools and infrastructure to help investment associates at a VC firm
 
 ## 🌟 Outside of work, you will catch me
